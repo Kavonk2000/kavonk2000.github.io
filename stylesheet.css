@@ -1,0 +1,17 @@
+.content {
+    margin-left: 25%;
+    font-size: 12;
+    text-align: center;}
+.navbar {
+    margin: 0;
+    padding:0 ;
+    width: 25%;
+    position: fixed;
+    text-align: left;
+       
+}
+h1 {text-align: center;}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
